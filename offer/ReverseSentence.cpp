@@ -4,11 +4,20 @@
 #include<stack>
 #include<algorithm>
 #include<map>
+#include<queue>
 using namespace std;
-string LeftRotateString(string str, int n) {
-	if (str == "") return "";
-	int len = str.size();
-	n = n%len;
-	str += str;
-	return str.substr(n, len);
+string ReverseSentence(string str) {
+	string res = "", temp = "";
+	for (int i = 0; i < str.size(); i++)
+	{
+		if (str[i] == ' ')
+		{
+			res = " " + temp + res;
+			temp = "";
+		}
+		else
+			temp += str[i];
+	}
+	if (temp.size()>0) res = temp + res;
+	return res;
 }
