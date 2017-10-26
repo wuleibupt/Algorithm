@@ -30,3 +30,10 @@
 [对称的二叉树](https://github.com/wuleibupt/Algorithm/blob/master/offer/isSymmetrical.cpp)<br>
 [Binary Tree Zigzag Level Order Traversal](https://github.com/wuleibupt/Algorithm/blob/master/offer/Print1.cpp)<br>
 [Binary Tree Level Order Traversal](https://github.com/wuleibupt/Algorithm/blob/master/offer/Print2.cpp)<br>
+
+[Serialize and Deserialize Binary Tree](https://github.com/wuleibupt/Algorithm/blob/master/offer/SerializeAndDeserialize.cpp)<br>
+[Kth Smallest Element in a BST](https://github.com/wuleibupt/Algorithm/blob/master/offer/KthNode.cpp)<br>
+[Sliding Window Median](https://github.com/wuleibupt/Algorithm/blob/master/offer/maxInWindows.cpp)<br>
+[机器人的运动范围](https://github.com/wuleibupt/Algorithm/blob/master/offer/movingCount.cpp)<br>
+[树的子结构](https://github.com/wuleibupt/Algorithm/blob/master/offer/hasSubtree.cpp)<br>
+[包含min函数的栈](https://github.com/wuleibupt/Algorithm/blob/master/offer/MinStack.cpp)<br>
