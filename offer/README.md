@@ -2,11 +2,11 @@
 
 ------
 [连续子数组的最大和](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/FindGreatestSumOfSubArray.cpp)<br>
-[129. Sum Root to Leaf Numbers](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/sumNumbers.cpp)<br>
-[130. Surrounded Regions](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/solve.cpp)<br>
-[131. Palindrome Partitioning](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/partition.cpp)<br>
-[132. Palindrome Partitioning II](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/minCut.cpp)<br>
-[133. Clone Graph](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/cloneGraph.cpp)<br>
+[整数中1出现的次数(从1到n整数中1出现的次数)](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/NumberOf1Between1AndN_Solution.cpp)<br>
+[把数组排成最小的数](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/PrintMinNumber.cpp)<br>
+[丑数](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/GetUglyNumber_Solution.cpp)<br>
+[第一个只出现一次的字符](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/FirstNotRepeatingChar.cpp)<br>
+[数组中的逆序对](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/InversePairs.cpp)<br>
 [134. Gas Station](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/gas-station.cpp)<br>
 [135. Candy](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/candy.cpp)<br>
 [136. Single Number](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/singleNumber1.cpp)<br>
