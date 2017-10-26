@@ -1,4 +1,4 @@
-# LeetCode代码索引
+# Offer代码索引
 
 ------
 [111. Minimum Depth of Binary Tree](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/minDepth.cpp)<br>
