@@ -2,41 +2,27 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+struct TreeNode {
+	int val;
+	TreeNode *left;	
+	TreeNode *right;
+	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
+
 class Solution {
 public:
-	vector<vector<string>> partition(string s) {
-		vector<vector<string>> res;
-		vector<string> path;
-		dfs(s, path, res);
-		return res;
+	vector<int> postorderTraversal(TreeNode* root) {
+		vector<int> vec;
+		postorderTraversal(root, vec);
+		return vec;
 	}
-	void dfs(string s, vector<string>&path, vector<vector<string>>& res)
+	void postorderTraversal(TreeNode* root, vector<int>& vec)
 	{
-		if (s.length() == 0)
+		if (root != NULL)
 		{
-			res.push_back(path);
-			return;
-		}
-		for (int i = 0; i < s.size(); i++)
-		{
-			int begin = 0;
-			int end = i;
-			while (begin < end)
-			{
-				if (s[begin] == s[end])
-				{
-					begin++;
-					end--;
-				}
-				else
-					break;
-			}
-			if (begin >= end)
-			{
-				path.push_back(s.substr(0, i + 1));
-				dfs(s.substr(i + 1), path, res);
-				path.pop_back();
-			}
+			postorderTraversal(root->left, vec);
+			postorderTraversal(root->right, vec);
+			vec.push_back(root->val);
 		}
 	}
 };
