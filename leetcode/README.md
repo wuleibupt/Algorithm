@@ -1,6 +1,7 @@
 # LeetCode代码索引
 
 ------
+[111. Minimum Depth of Binary Tree](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/minDepth.cpp)<br>
 [131. Palindrome Partitioning](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/partition.cpp)<br>
 [132. Palindrome Partitioning II](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/minCut.cpp)<br>
 [133. Clone Graph](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/cloneGraph.cpp)<br>
