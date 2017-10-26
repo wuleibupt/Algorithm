@@ -13,3 +13,5 @@
 (10)[143. Reorder List](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/reorderList.cpp)<br>
 (11)[145. Binary Tree Postorder Traversal](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/postorderTraversal.cpp)<br>
 (12)[147. Insertion Sort List](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/insertionSortList.cpp)<br>
+(13)[148. Sort List](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/sortList.cpp)<br>
+(14)[149. Max Points on a Line](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/maxPoints.cpp)<br>
