@@ -2,6 +2,8 @@
 
 ------
 [111. Minimum Depth of Binary Tree](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/minDepth.cpp)<br>
+[127. Word Ladder](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/ladderLength.cpp)<br>
+[128. Longest Consecutive Sequence](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/longestConsecutive.cpp)<br>
 [129. Sum Root to Leaf Numbers](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/sumNumbers.cpp)<br>
 [130. Surrounded Regions](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/solve.cpp)<br>
 [131. Palindrome Partitioning](https://github.com/wuleibupt/Algorithm/blob/master/leetcode/partition.cpp)<br>
