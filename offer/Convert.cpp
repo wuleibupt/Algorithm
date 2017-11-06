@@ -2,40 +2,22 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
-struct RandomListNode
+struct TreeNode
 {
 	int val;
-	RandomListNode* next;
-	RandomListNode* random;
-	RandomListNode(int x) :val(x), next(NULL), random(NULL){}
+	TreeNode* left;
+	TreeNode* right;
 };
-RandomListNode* Clone(RandomListNode* pHead)
+TreeNode* leftlast = NULL;
+TreeNode* pre = NULL;
+TreeNode* Convert(TreeNode* pRootOfTree)
 {
-	if (pHead == NULL) return NULL;
-	RandomListNode* pNode = pHead;
-	while (pNode != NULL)
-	{
-		RandomListNode* node = new RandomListNode(pNode->val);
-		node->next = pNode->next;
-		pNode->next = node;
-		pNode = node->next;
-	}
-	pNode = pHead;
-	while (pNode != NULL)
-	{
-		RandomListNode* clone = pNode->next;
-		if (pNode->random != NULL)
-			clone->random = pNode->random->next;
-		pNode = clone->next;
-	}
-	RandomListNode* pClone = pHead->next;
-	pNode = pHead;
-	RandomListNode* temp;
-	while (pNode->next != NULL)
-	{
-		temp = pNode->next;
-		pNode->next = temp->next;
-		pNode = temp;
-	}
-	return pClone;
+	if (pRootOfTree == NULL) return NULL;
+	Convert(pRootOfTree->left);
+	pRootOfTree->left = pre;
+	if (pre != NULL) pre->right = pRootOfTree;
+	pre = pRootOfTree;
+	leftlast = (leftlast == NULL) ? pRootOfTree : leftlast;
+	Convert(pRootOfTree->right);
+	return leftlast;
 }
