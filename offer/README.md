@@ -49,3 +49,9 @@
 [字符串权排列](https://github.com/wuleibupt/Algorithm/blob/master/offer/Permutation.cpp)<br>
 [n个筛子点数](https://github.com/wuleibupt/Algorithm/blob/master/offer/PrintProbabilty.cpp)<br>
 [二叉搜索树的后序遍历序列](https://github.com/wuleibupt/Algorithm/blob/master/offer/VerifySquenceOFBST.cpp)<br>
+
+[二叉树中和为某一值的路径](https://github.com/wuleibupt/Algorithm/blob/master/offer/FindPath.cpp)<br>
+[复杂链表的复制](https://github.com/wuleibupt/Algorithm/blob/master/offer/Clone.cpp)<br>
+[二叉搜索树与双向链表](https://github.com/wuleibupt/Algorithm/blob/master/offer/Convert.cpp)<br>
+[数组中出现次数超过一半的数字](https://github.com/wuleibupt/Algorithm/blob/master/offer/MoreThanHalfNum_Solution.cpp)<br>
+[最小的K个数](https://github.com/wuleibupt/Algorithm/blob/master/offer/GetLeastNumbers_Solution.cpp)<br>
