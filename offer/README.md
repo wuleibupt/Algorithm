@@ -37,3 +37,9 @@
 [机器人的运动范围](https://github.com/wuleibupt/Algorithm/blob/master/offer/movingCount.cpp)<br>
 [树的子结构](https://github.com/wuleibupt/Algorithm/blob/master/offer/hasSubtree.cpp)<br>
 [包含min函数的栈](https://github.com/wuleibupt/Algorithm/blob/master/offer/MinStack.cpp)<br>
+
+[二叉树的镜像](https://github.com/wuleibupt/Algorithm/blob/master/offer/Mirror.cpp)<br>
+[顺时针打印矩阵](https://github.com/wuleibupt/Algorithm/blob/master/offer/printMatrix.cpp)<br>
+[数值的整数次方](https://github.com/wuleibupt/Algorithm/blob/master/offer/Power.cpp)<br>
+[剪绳子](https://github.com/wuleibupt/Algorithm/blob/master/offer/maxProductAfterCutting.cpp)<br>
+[矩阵的路径](https://github.com/wuleibupt/Algorithm/blob/master/offer/hasPath.cpp)<br>
