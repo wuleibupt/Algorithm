@@ -18,7 +18,7 @@ bool matchCore(char* str, int strIndex, char* pattern, int patternIndex)
 		}
 		else
 		{
-				return matchCore(str, strIndex, pattern, patternIndex + 2);
+			return matchCore(str, strIndex, pattern, patternIndex + 2);
 		}
 	}
 	if ((strIndex != strlen(str) && pattern[patternIndex] == str[strIndex]) || (strIndex != strlen(str) && pattern[patternIndex] == '.'))
