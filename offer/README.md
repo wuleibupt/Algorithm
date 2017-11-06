@@ -43,3 +43,9 @@
 [数值的整数次方](https://github.com/wuleibupt/Algorithm/blob/master/offer/Power.cpp)<br>
 [剪绳子](https://github.com/wuleibupt/Algorithm/blob/master/offer/maxProductAfterCutting.cpp)<br>
 [矩阵的路径](https://github.com/wuleibupt/Algorithm/blob/master/offer/hasPath.cpp)<br>
+
+[最长不含重复字符的字符串](https://github.com/wuleibupt/Algorithm/blob/master/offer/longestSubstringWithoutDeplication.cpp)<br>
+[正则表达式匹配](https://github.com/wuleibupt/Algorithm/blob/master/offer/match.cpp)<br>
+[字符串权排列](https://github.com/wuleibupt/Algorithm/blob/master/offer/Permutation.cpp)<br>
+[n个筛子点数](https://github.com/wuleibupt/Algorithm/blob/master/offer/PrintProbabilty.cpp)<br>
+[二叉搜索树的后序遍历序列](https://github.com/wuleibupt/Algorithm/blob/master/offer/VerifySquenceOFBST.cpp)<br>
