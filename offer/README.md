@@ -55,3 +55,8 @@
 [二叉搜索树与双向链表](https://github.com/wuleibupt/Algorithm/blob/master/offer/Convert.cpp)<br>
 [数组中出现次数超过一半的数字](https://github.com/wuleibupt/Algorithm/blob/master/offer/MoreThanHalfNum_Solution.cpp)<br>
 [最小的K个数](https://github.com/wuleibupt/Algorithm/blob/master/offer/GetLeastNumbers_Solution.cpp)<br>
+
+[和为S的两个数字](https://github.com/wuleibupt/Algorithm/blob/master/offer/FindNumbersWithSum.cpp)<br>
+[数组中重复的数字](https://github.com/wuleibupt/Algorithm/blob/master/offer/duplicate.cpp)<br>
+[Find Median from Data Stream](https://github.com/wuleibupt/Algorithm/blob/master/offer/MedianFinder.cpp)<br>
+[礼物的最大价值](https://github.com/wuleibupt/Algorithm/blob/master/offer/getMaxValue_solution.cpp)<br>
