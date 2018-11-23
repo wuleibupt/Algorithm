@@ -2,6 +2,7 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
+#复制复杂链表
 struct RandomListNode
 {
 	int val;
